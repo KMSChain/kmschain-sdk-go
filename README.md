@@ -3,7 +3,6 @@
 
 
 ## Introduction
-[KmsChain](http://kmschain.com), SAS, is a Paris, France, based cybersecurity company and a graduate of the Techstars Paris 2017 accelerator program.
 
 We provide "Encryption & Key Management" service in operation with open sourced libraries with support for Javascript, Python, Go, Rust, Java, C++ languages.
 
