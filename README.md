@@ -50,7 +50,7 @@ This is a standard Go package, but it requires to install OpenSSL package separa
 ~# go get github.com/kmschain/kmschain-sdk-go
 
 # Compile KmsChain C++ library and combine it with SDK
-~# go generate github.com/kmschain/kmschain-sdk-go/skyscryptor
+~# go generate github.com/kmschain/kmschain-sdk-go/kmschain
 ```
 
 ## Usage Examples
