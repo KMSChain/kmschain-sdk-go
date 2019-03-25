@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 LIBNAME="cryptomagic"
-LIBFILE="lib$LIBNAME.a"
+LIBFILE="libProxyLib.a"
 SOURCE_DIR="`pwd`"
 
 # Cloning and building C++ library
-git clone https://github.com/kmschain/cryptomagic.git "$LIBNAME"
+git clone https://github.com/skycryptor/cryptomagic.git "$LIBNAME"
 cd cryptomagic
 rm -rf build
 mkdir -p build && cd build
