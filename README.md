@@ -46,7 +46,7 @@ utilizing seckp256k1 elliptic curves and based on standard ECIES approach.
 This is a standard Go package, but it requires to install OpenSSL package separately.
 ```bash
 ~# # Install OpenSSL here, depends on OS you are running
-~# go get github.com/kmschain/kmschain-sdk-go
+~# go get github.com/kmschain/kmschain-sdk-go/kmschain
 
 # Compile KmsChain C++ library and combine it with SDK
 ~# go generate github.com/kmschain/kmschain-sdk-go/kmschain
